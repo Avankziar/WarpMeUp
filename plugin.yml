@@ -1,0 +1,8 @@
+name: WarpMeUp
+main: main.java.de.avankziar.warpmeup.WarpMeUp
+version: 1
+author: Avankziar
+website: https://www.spigotmc.org/resources/authors/avankziar.332028/
+load: STARTUP
+api-version: 1.15
+description: Warp, Home, Back, Tpa and Sign with Bungee

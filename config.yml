@@ -1,0 +1,18 @@
+language: 'english'
+servername: 'nameFromSpigotServerOnBungee'
+groups:
+- vip
+- staff
+- normal
+mysql:
+  status: 'false'
+  host: '127.0.0.1'
+  port: 3306
+  databaseName: 'mydatabase'
+  sslEnabled: 'false'
+  autoReconnect: 'true'
+  verifyServerCertificate: 'false'
+  user: 'admin'
+  password: 'not_0123456789'
+  tableNameI: 'warpmeupPlayerData'
+  tableNameII: 'warpmeupWarps'
